@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Pin": 1234,
+    "Name": "Max Mustermann",
+    "Balance": 1234
+  },
+  {
+    "Pin": 4567,
+    "Name": "Jane Doe",
+    "Balance": 100
+  },
+  {
+    "Pin": 7894,
+    "Name": "Philip J. Fry",
+    "Balance": 0
+  }
+]
